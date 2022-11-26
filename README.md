@@ -93,6 +93,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* To all the organizing members of Women Techmakers BVP and Developer Student Clubs - BVP
-* To the mentors : Uday Upreti, Arpan Garg and Nakul Garg for the valuable feedback. 
-* To Google for always being ready to get anything we searched.
+* Minor Project: Shashank Pandey, Vipul Raj, Praveen Kejriwal
+* Guide : Dr. Dr. Jagadeesh V K for the valuable feedback and suggestions. 
