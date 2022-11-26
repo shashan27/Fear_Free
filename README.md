@@ -84,9 +84,9 @@ Version : 0.1
 
 ## Authors
 
-* **SHashank Pandey** - *Initial work* - [shashan27](https://github.com/shashan27)
+* **Shashank Pandey** - *Initial work* - [shashan27](https://github.com/shashan27)
 * **Vipul Raj** - *Initial work* - [VipulRaj-123](https://github.com/VipulRaj-123)
-* * **Praveen Kejriwal** - *Initial work* 
+* **Praveen Kejriwal** - *Initial work* 
 
 ## License
 
