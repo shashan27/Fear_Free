@@ -88,10 +88,6 @@ Version : 0.1
 * **Vipul Raj** - *Initial work* - [VipulRaj-123](https://github.com/VipulRaj-123)
 * **Praveen Kejriwal** - *Initial work* 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Minor Project: Shashank Pandey, Vipul Raj, Praveen Kejriwal
