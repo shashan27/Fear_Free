@@ -84,8 +84,9 @@ Version : 0.1
 
 ## Authors
 
-* **Mayank** - *Initial work* - [im-gozmit](https://github.com/im-gozmit)
-* **Mayank Mishra** - *Initial work* - [june12mayank](https://github.com/june12mayank)
+* **SHashank Pandey** - *Initial work* - [shashan27](https://github.com/shashan27)
+* **Vipul Raj** - *Initial work* - [VipulRaj-123](https://github.com/VipulRaj-123)
+* * **Praveen Kejriwal** - *Initial work* 
 
 ## License
 
