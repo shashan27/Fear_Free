@@ -91,4 +91,4 @@ Version : 0.1
 ## Acknowledgments
 
 * Minor Project: Shashank Pandey, Vipul Raj, Praveen Kejriwal
-* Guide : Dr. Dr. Jagadeesh V K for the valuable feedback and suggestions. 
+* Guide : Dr. Jagadeesh V K for the valuable feedback and suggestions. 
